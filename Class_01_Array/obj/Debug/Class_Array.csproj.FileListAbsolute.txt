@@ -1,0 +1,8 @@
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Array\bin\Debug\Class_Array.exe.config
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Array\bin\Debug\Class_Array.exe
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Array\bin\Debug\Class_Array.pdb
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Array\obj\Debug\Class_Array.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Array\obj\Debug\Class_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Array\obj\Debug\Class_Array.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Array\obj\Debug\Class_Array.exe
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Array\obj\Debug\Class_Array.pdb
