@@ -1,0 +1,16 @@
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Car\bin\Debug\Class_Car.exe.config
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Car\bin\Debug\Class_Car.exe
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Car\bin\Debug\Class_Car.pdb
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Car\obj\Debug\Class_Car.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Car\obj\Debug\Class_Car.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Car\obj\Debug\Class_Car.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Car\obj\Debug\Class_Car.exe
+C:\Users\KB\Desktop\Csharp\CSharp\Class_Car\obj\Debug\Class_Car.pdb
+E:\C#\CSharp\Class_Car\bin\Debug\Class_Car.exe.config
+E:\C#\CSharp\Class_Car\bin\Debug\Class_Car.exe
+E:\C#\CSharp\Class_Car\bin\Debug\Class_Car.pdb
+E:\C#\CSharp\Class_Car\obj\Debug\Class_Car.csproj.AssemblyReference.cache
+E:\C#\CSharp\Class_Car\obj\Debug\Class_Car.csproj.SuggestedBindingRedirects.cache
+E:\C#\CSharp\Class_Car\obj\Debug\Class_Car.csproj.CoreCompileInputs.cache
+E:\C#\CSharp\Class_Car\obj\Debug\Class_Car.exe
+E:\C#\CSharp\Class_Car\obj\Debug\Class_Car.pdb
