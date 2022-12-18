@@ -1,0 +1,8 @@
+E:\C#\CSharp\Class_CarMG\bin\Debug\Class_CarMG.exe.config
+E:\C#\CSharp\Class_CarMG\bin\Debug\Class_CarMG.exe
+E:\C#\CSharp\Class_CarMG\bin\Debug\Class_CarMG.pdb
+E:\C#\CSharp\Class_CarMG\obj\Debug\Class_CarMG.csproj.AssemblyReference.cache
+E:\C#\CSharp\Class_CarMG\obj\Debug\Class_CarMG.csproj.SuggestedBindingRedirects.cache
+E:\C#\CSharp\Class_CarMG\obj\Debug\Class_CarMG.csproj.CoreCompileInputs.cache
+E:\C#\CSharp\Class_CarMG\obj\Debug\Class_CarMG.exe
+E:\C#\CSharp\Class_CarMG\obj\Debug\Class_CarMG.pdb
